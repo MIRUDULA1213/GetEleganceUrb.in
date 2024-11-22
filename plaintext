@@ -1,0 +1,19 @@
+ecommerce-website/
+├── backend/
+│   ├── server.js
+│   ├── db-config.js
+│   └── routes/
+│       ├── auth.js
+│       ├── product.js
+│       └── admin.js
+├── frontend/
+│   ├── index.html
+│   ├── login.html
+│   ├── register.html
+│   ├── admin.html
+│   ├── css/
+│   │   └── styles.css
+│   └── js/
+│       ├── main.js
+│       ├── login.js
+│       └── admin.js
